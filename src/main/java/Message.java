@@ -1,6 +1,6 @@
 public class Message {
-    public  void getMessage()
+    public  String getMessage()
     {
-        System.out.println("Get Message");
+        return "Get Message";
     }
 }
