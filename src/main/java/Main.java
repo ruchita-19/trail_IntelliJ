@@ -3,6 +3,7 @@ public class Main {
         System.out.println("In IntelliJ");
         Message message=new Message();
         System.out.println(message.getMessage());
+        System.out.println(message.getSpecialMessage());
 
     }
 }
