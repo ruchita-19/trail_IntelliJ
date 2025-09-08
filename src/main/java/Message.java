@@ -3,4 +3,8 @@ public class Message {
     {
         return "Get Message";
     }
+    public  String getAnotherMessage()
+    {
+        return "Get Another Message";
+    }
 }
