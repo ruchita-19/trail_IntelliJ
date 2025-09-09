@@ -7,4 +7,8 @@ public class Message {
     {
         return "Get Another Message";
     }
+    public  String getSpecialMessage()
+    {
+        return "Get Special Message";
+    }
 }

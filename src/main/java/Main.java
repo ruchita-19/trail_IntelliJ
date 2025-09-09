@@ -6,5 +6,8 @@ public class Main {
 
         System.out.println(message.getAnotherMessage());
 
+        System.out.println(message.getSpecialMessage());
+        Number number=new Number();
+        System.out.println(number.getfavNumber());
     }
 }
