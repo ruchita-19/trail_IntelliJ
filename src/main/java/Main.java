@@ -4,6 +4,7 @@ public class Main {
         Message message=new Message();
         System.out.println(message.getMessage());
         System.out.println(message.getSpecialMessage());
-
+        Number number=new Number();
+        System.out.println(number.getfavNumber());
     }
 }
